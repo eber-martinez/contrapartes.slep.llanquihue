@@ -1,0 +1,731 @@
+{
+  "programas": [
+    {
+      "programa": "A Convivir se Aprende 2026–2027",
+      "institucion": "Universidad Andrés Bello - Facultad de Educación y Humanidades",
+      "contraparte": "Valentina Santibáñez - UATP"
+    },
+    {
+      "programa": "Academia Impulso Directivo",
+      "institucion": "Fundación Impulso Docente",
+      "contraparte": "Diego Velásquez - UATP"
+    },
+    {
+      "programa": "Acompañamiento Focalizado LEC",
+      "institucion": "SLEP Llanquihue",
+      "contraparte": "Judith Venegas - UATP"
+    },
+    {
+      "programa": "ADECO – Asignación de Desempeño Colectivo",
+      "institucion": "Mineduc - CPEIP",
+      "contraparte": "Kareline Zamora - UATP"
+    },
+    {
+      "programa": "APTUS",
+      "institucion": "APTUS (Matte)",
+      "contraparte": "Por definir"
+    },
+    {
+      "programa": "Aspiraciones sobre el Futuro",
+      "institucion": "Fundación Luksic",
+      "contraparte": "Por definir"
+    },
+    {
+      "programa": "Aulas Conectadas 2026",
+      "institucion": "Mineduc",
+      "contraparte": "Julio Muñoz - DAF"
+    },
+    {
+      "programa": "Aulas sin Límites",
+      "institucion": "Enseña Chile",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "programa": "Biblioteca Migrante",
+      "institucion": "Subsecretaría de Educación Parvularia",
+      "contraparte": "Marcela Wigolorchew - UATP"
+    },
+    {
+      "programa": "Bibliotecas Vivas – Bibliomóvil",
+      "institucion": "Lectus - Enseña Chile - Phaway - FLF",
+      "contraparte": "Judith Venegas - UATP"
+    },
+    {
+      "programa": "Cada Día Cuenta",
+      "institucion": "Fundación Presente",
+      "contraparte": "Daniela Vivanco - UATP"
+    },
+    {
+      "programa": "CAUCE",
+      "institucion": "INACAP",
+      "contraparte": "Claudia Hoffmann - UATP"
+    },
+    {
+      "programa": "Crecer en Movimiento",
+      "institucion": "IND / JUNJI",
+      "contraparte": "Marcela Wigolorchew - UATP"
+    },
+    {
+      "programa": "Cuenca Lectora",
+      "institucion": "Fundación 99",
+      "contraparte": "Judith Venegas - UATP"
+    },
+    {
+      "programa": "Cultivando Bienestar",
+      "institucion": "Fundación Makaroi",
+      "contraparte": "Bárbara Mansilla - UATP"
+    },
+    {
+      "programa": "De la Escuela a la Tierra",
+      "institucion": "Plan C",
+      "contraparte": "René Muñoz - Gabinete"
+    },
+    {
+      "programa": "Desarrollo de Habilidades de Inserción Sociolaboral",
+      "institucion": "Verde Sur",
+      "contraparte": "Ximena Iturrieta - UATP"
+    },
+    {
+      "programa": "EducaSwitch",
+      "institucion": "EducaSwitch",
+      "contraparte": "Valentina Santibáñez - UATP"
+    },
+    {
+      "programa": "Escuela Naturalista",
+      "institucion": "Legado",
+      "contraparte": "Luis Tejos - UATP"
+    },
+    {
+      "programa": "Espacio de Reencuentro Educativo",
+      "institucion": "Programa propio",
+      "contraparte": "Daniela Vivanco - UATP"
+    },
+    {
+      "programa": "Espacios Amigables",
+      "institucion": "Ministerio de Salud / CESFAM del territorio",
+      "contraparte": "Bárbara Mansilla - UATP"
+    },
+    {
+      "programa": "Fortalezas del Carácter",
+      "institucion": "Astoreca",
+      "contraparte": "Valentina Santibáñez - UATP"
+    },
+    {
+      "programa": "Fresia Cuida la Vida",
+      "institucion": "Departamento de Salud Fresia",
+      "contraparte": "Valentina Santibáñez - UATP"
+    },
+    {
+      "programa": "Future Voices",
+      "institucion": "English-UC",
+      "contraparte": "Marcelo Delgado - UATP"
+    },
+    {
+      "programa": "Futuro Local TP",
+      "institucion": "Fundación 99",
+      "contraparte": "Claudia Hoffmann - UATP"
+    },
+    {
+      "programa": "Guardianes de mi Historia",
+      "institucion": "Loreto Arriagada y Marcela Lorca - Facilitadoras",
+      "contraparte": "Judith Venegas - UATP"
+    },
+    {
+      "programa": "Habilidades para la Vida I",
+      "institucion": "JUNAEB / CESFAM Frutillar y Llanquihue",
+      "contraparte": "Bárbara Mansilla - UATP"
+    },
+    {
+      "programa": "Habilidades para la Vida II",
+      "institucion": "JUNAEB / CESFAM Frutillar y Llanquihue",
+      "contraparte": "Bárbara Mansilla - UATP"
+    },
+    {
+      "programa": "Implementación Técnico Profesional (TP)",
+      "institucion": "Mineduc",
+      "contraparte": "Claudia Hoffmann - UATP"
+    },
+    {
+      "programa": "Infancias Neurodiversas",
+      "institucion": "Consejo Comunal de la Discapacidad Frutillar",
+      "contraparte": "Viviana Artaza - UATP"
+    },
+    {
+      "programa": "Inglés Abre Puertas – PIAP",
+      "institucion": "Mineduc",
+      "contraparte": "Marcelo Delgado - UATP"
+    },
+    {
+      "programa": "Kinder Power",
+      "institucion": "Fundación Familias Primero",
+      "contraparte": "Daniela Vivanco - UATP"
+    },
+    {
+      "programa": "Leer es Poderoso",
+      "institucion": "Fundación Familias Primero",
+      "contraparte": "Daniela Vivanco - UATP"
+    },
+    {
+      "programa": "Leo Primero",
+      "institucion": "Mineduc",
+      "contraparte": "Judith Venegas - UATP"
+    },
+    {
+      "programa": "Liceos Bicentenario",
+      "institucion": "Mineduc",
+      "contraparte": "Claudia Hoffmann - UATP"
+    },
+    {
+      "programa": "Matemática en Ruta",
+      "institucion": "Félix Klein - USACH",
+      "contraparte": "Fabián Teuquil - UATP"
+    },
+    {
+      "programa": "Museo Sonoro Itinerante",
+      "institucion": "MUSI Museo Sonoro",
+      "contraparte": "Alejandro Oyarzo - UATP"
+    },
+    {
+      "programa": "Natación",
+      "institucion": "Municipalidad de Puerto Varas",
+      "contraparte": "Alejandro Oyarzo - UATP"
+    },
+    {
+      "programa": "Núcleos Biodiversos",
+      "institucion": "Fundación MAPA",
+      "contraparte": "Carla Contreras - Gabinete"
+    },
+    {
+      "programa": "PACE",
+      "institucion": "Universidad de Los Lagos y Universidad Austral",
+      "contraparte": "Por definir"
+    },
+    {
+      "programa": "Patio Vivo Cultivable",
+      "institucion": "Fundación Patio Vivo",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "programa": "Programa Acciona",
+      "institucion": "Ministerio de las Culturas, las Artes y el Patrimonio",
+      "contraparte": "Alejandro Oyarzo - UATP"
+    },
+    {
+      "programa": "Programa Artístico Cultural",
+      "institucion": "Fundación Caliú",
+      "contraparte": "Alejandro Oyarzo - UATP"
+    },
+    {
+      "programa": "Programa CECI – Centros Educativos y Culturales de la Infancia",
+      "institucion": "JUNJI",
+      "contraparte": "Pía Jaramillo - Gabinete"
+    },
+    {
+      "programa": "Programa Cultura Ambiental",
+      "institucion": "Verde Sur",
+      "contraparte": "Luis Tejos - UATP"
+    },
+    {
+      "programa": "Programa de Fomento Lector en Primera Infancia – Frutillar",
+      "institucion": "Ilustre Municipalidad de Frutillar / Biblioteca Municipal",
+      "contraparte": "Marcela Wigolorchew - UATP"
+    },
+    {
+      "programa": "Programa de Indagación para Primeras Edades – PIPE",
+      "institucion": "Universidad Austral de Chile / PAR Explora Los Lagos",
+      "contraparte": "Por definir"
+    },
+    {
+      "programa": "Programa en Serio",
+      "institucion": "Simón de Cirene",
+      "contraparte": "Valentina Santibáñez - UATP"
+    },
+    {
+      "programa": "Programa Micelio",
+      "institucion": "Fundación Proyecto Micelio",
+      "contraparte": "Por definir"
+    },
+    {
+      "programa": "Programa Ovino",
+      "institucion": "Ilustre Municipalidad de Fresia",
+      "contraparte": "Carlos Cárdenas - Liceo Carlos Ibáñez del Campo"
+    },
+    {
+      "programa": "Programa Residencia Familiar Estudiantil",
+      "institucion": "JUNAEB",
+      "contraparte": "Pía Jaramillo - Gabinete"
+    },
+    {
+      "programa": "Proretención",
+      "institucion": "Mineduc",
+      "contraparte": "Valentina Santibáñez - UATP"
+    },
+    {
+      "programa": "Protagonistas del Cambio",
+      "institucion": "Centro de Innovación - Mineduc",
+      "contraparte": "Ivonne Ovando - UATP"
+    },
+    {
+      "programa": "Proyecto de Curso",
+      "institucion": "Elige Educar",
+      "contraparte": "René Muñoz - Gabinete"
+    },
+    {
+      "programa": "Reactivación Educativa",
+      "institucion": "Mineduc",
+      "contraparte": "Valentina Santibáñez - UATP"
+    },
+    {
+      "programa": "Red de Maestros",
+      "institucion": "CPEIP - Mineduc",
+      "contraparte": "Por definir"
+    },
+    {
+      "programa": "Red Futuro Técnico",
+      "institucion": "ONG Canales",
+      "contraparte": "Claudia Hoffmann - UATP; Fabián Teuquil - UATP"
+    },
+    {
+      "programa": "Reinicia tu Impulso",
+      "institucion": "Fundación Neuroenciende",
+      "contraparte": "Ximena Iturrieta - UATP"
+    },
+    {
+      "programa": "REMA",
+      "institucion": "Fundación Luksic",
+      "contraparte": "Karla Silva - UATP"
+    },
+    {
+      "programa": "Ruta de la Mediación",
+      "institucion": "Centro de Arte Molino Machmar (CAMM)",
+      "contraparte": "Alejandro Oyarzo - UATP"
+    },
+    {
+      "programa": "SENDA Previene",
+      "institucion": "SENDA",
+      "contraparte": "Bárbara Mancilla - UATP"
+    },
+    {
+      "programa": "Somos Profes – Somos Educadores",
+      "institucion": "Elige Educar",
+      "contraparte": "Ivonne Ovando - UATP"
+    },
+    {
+      "programa": "Sumo Primero",
+      "institucion": "Mineduc",
+      "contraparte": "Fabián Teuquil - UATP"
+    },
+    {
+      "programa": "Un Circo en tu Escuela",
+      "institucion": "Fundación Circo Frutillar",
+      "contraparte": "Alejandro Oyarzo - UATP"
+    },
+    {
+      "programa": "Voces",
+      "institucion": "Semanas Musicales de Frutillar",
+      "contraparte": "Por definir"
+    }
+  ],
+  "convenios": [
+    {
+      "institucion": "Ministerio de Educación",
+      "sintesis": "Financiamiento del proyecto Liceo Bicentenario Politécnico Holanda.",
+      "contraparte": "Por definir"
+    },
+    {
+      "institucion": "Ministerio de Educación",
+      "sintesis": "Financiamiento del proyecto Liceo Bicentenario del Colegio Los Ulmos.",
+      "contraparte": "Por definir"
+    },
+    {
+      "institucion": "Fundación 99 y Fundación Olivo",
+      "sintesis": "Implementación de Puentes Educativos en escuelas rurales.",
+      "contraparte": "Por confirmar - Dirección Ejecutiva"
+    },
+    {
+      "institucion": "Ministerio de Educación",
+      "sintesis": "Entrega de equipamiento tecnológico, conectividad y recursos educativos.",
+      "contraparte": "José Riffo - DAF"
+    },
+    {
+      "institucion": "Fundación Ulmo",
+      "sintesis": "Implementación del Programa para el Desarrollo de la Literacidad.",
+      "contraparte": "Por confirmar - UATP"
+    },
+    {
+      "institucion": "Fundación Grandes Valores",
+      "sintesis": "Fútbol Más: deporte y aprendizaje socioemocional en escuelas.",
+      "contraparte": "Por confirmar - Establecimientos educacionales"
+    },
+    {
+      "institucion": "Fundación Educacional Súmate Padre Álvaro Lavín",
+      "sintesis": "Espacio de Reencuentro Educativo para la revinculación escolar.",
+      "contraparte": "Por confirmar - UATP"
+    },
+    {
+      "institucion": "INACAP",
+      "sintesis": "Colaboración académica, formación técnico-profesional y orientación vocacional.",
+      "contraparte": "Por definir"
+    },
+    {
+      "institucion": "Fundación Gabriel y Mary Mustakis",
+      "sintesis": "Programas de arte, cultura y aprendizaje creativo para estudiantes.",
+      "contraparte": "Por definir"
+    },
+    {
+      "institucion": "Fundación Legado Chile",
+      "sintesis": "Educación socioambiental mediante el proyecto Escuela Naturalista.",
+      "contraparte": "Por definir"
+    },
+    {
+      "institucion": "Fundación Kopernikus",
+      "sintesis": "Aprendizaje creativo y formación de docentes.",
+      "contraparte": "Por definir"
+    },
+    {
+      "institucion": "Corporación de Capacitación ICL Chile",
+      "sintesis": "Uso de dependencias de ASPADEP para actividades de capacitación.",
+      "contraparte": "Por definir"
+    },
+    {
+      "institucion": "Fundación Social Astoreca",
+      "sintesis": "Programa de Matemática de 1.º a 4.º básico.",
+      "contraparte": "Karla Silva - UATP"
+    },
+    {
+      "institucion": "Fundación Educacional Padre Álvaro Lavín",
+      "sintesis": "Espacio de Reencuentro Educativo en Liceo Ignacio Carrera Pinto.",
+      "contraparte": "Diego Velásquez - UATP"
+    },
+    {
+      "institucion": "Corporación Club de Golf Patagonia Virgin Frutillar",
+      "sintesis": "Acceso a instalaciones deportivas del club para comunidades educativas.",
+      "contraparte": "Por confirmar - UATP"
+    },
+    {
+      "institucion": "Patio Vivo",
+      "sintesis": "Proyectos educativos y de sustentabilidad en Frutillar.",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "institucion": "Fundación Impulso Docente",
+      "sintesis": "Asesoría en aprendizaje socioemocional y bienestar estudiantil.",
+      "contraparte": "Por definir"
+    },
+    {
+      "institucion": "Universidad San Sebastián",
+      "sintesis": "Prácticas pedagógicas, investigación y colaboración académica.",
+      "contraparte": "Denise Brito - UATP"
+    },
+    {
+      "institucion": "Ministerio de Educación",
+      "sintesis": "Financiamiento Liceo Bicentenario del Liceo Pedro Aguirre Cerda.",
+      "contraparte": "Por confirmar - UATP"
+    },
+    {
+      "institucion": "Fundación Benéfica, Cultural y Educacional Teatro del Lago",
+      "sintesis": "Talleres de formación musical para la Escuela Arturo Alessandri Palma.",
+      "contraparte": "Por confirmar - UATP"
+    },
+    {
+      "institucion": "Fundación Niños Primero",
+      "sintesis": "Implementación de Kinder Power y Leer es Poderoso.",
+      "contraparte": "Por confirmar - UATP"
+    },
+    {
+      "institucion": "Fundación Patio Vivo y AELA Eólica Llanquihue",
+      "sintesis": "Proyecto Paisajes de Aprendizaje en tres escuelas rurales.",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "institucion": "Pontificia Universidad Católica de Chile",
+      "sintesis": "Programa Somos Profes – Somos Educadores para docentes principiantes.",
+      "contraparte": "Por confirmar - UATP"
+    },
+    {
+      "institucion": "Fundación MAPA",
+      "sintesis": "Experiencias educativas vinculadas al patrimonio natural y cultural.",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "institucion": "Fundación Patio Vivo",
+      "sintesis": "Patio Vivo Cultivable y formación gastronómica sustentable.",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "institucion": "Fundación Andrónico Luksic A.",
+      "sintesis": "Implementación de Redes Educativas para la Mejora de los Aprendizajes (REMA).",
+      "contraparte": "Por confirmar - UATP"
+    },
+    {
+      "institucion": "Fundación Educacional Programa Presente",
+      "sintesis": "Programa Cada Día Cuenta para fortalecer la asistencia escolar.",
+      "contraparte": "Diego Velásquez - UATP"
+    },
+    {
+      "institucion": "Municipalidad de Puerto Varas",
+      "sintesis": "Programas de Bienestar Integral Adolescente y Natación Escolar.",
+      "contraparte": "Por confirmar - UATP"
+    },
+    {
+      "institucion": "Fundación 99",
+      "sintesis": "Colaboración en educación rural y formación docente y directiva.",
+      "contraparte": "Karla Silva - UATP"
+    },
+    {
+      "institucion": "Fundación Social Astoreca",
+      "sintesis": "Programa Fortalezas del Carácter para la Patagonia.",
+      "contraparte": "Por confirmar - UATP"
+    },
+    {
+      "institucion": "Universidad del Desarrollo",
+      "sintesis": "Formación continua, investigación e innovación pedagógica.",
+      "contraparte": "Por confirmar - UATP"
+    },
+    {
+      "institucion": "Fundación Caliú",
+      "sintesis": "Programas artístico-culturales en establecimientos públicos.",
+      "contraparte": "Por confirmar - UATP"
+    },
+    {
+      "institucion": "Universidad de la Frontera",
+      "sintesis": "Formación, investigación y vinculación con el medio.",
+      "contraparte": "Diego Velásquez - UATP"
+    },
+    {
+      "institucion": "Club Deportivo Magisterio de Frutillar",
+      "sintesis": "Recaudación de cuotas y descuentos para el club deportivo.",
+      "contraparte": "Por confirmar - Remuneraciones"
+    },
+    {
+      "institucion": "Fundación La Fuente, Fundación Enseña Chile y Fundación Phaway",
+      "sintesis": "Proyecto Bibliotecas Vivas y Bibliomóvil Escolar-Comunitario.",
+      "contraparte": "Por confirmar - Gabinete"
+    },
+    {
+      "institucion": "Fundación para el Desarrollo Kurt Konrad Mayer (Parque Puerto Fonck)",
+      "sintesis": "Visitas educativas y actividades ambientales en Parque Puerto Fonck.",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "institucion": "Fundación Parque Katalapi",
+      "sintesis": "Educación ambiental al aire libre en Parque Katalapi.",
+      "contraparte": "Eber Martínez - Gabinete; Por confirmar - DI"
+    },
+    {
+      "institucion": "Fundación Legado Chile",
+      "sintesis": "Desarrollo de proyectos de educación socioambiental.",
+      "contraparte": "Luis Tejos - UATP"
+    },
+    {
+      "institucion": "Fundación Benéfica, Cultural y Educacional Teatro del Lago",
+      "sintesis": "Programas de educación artística y cultural con Teatro del Lago.",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "institucion": "Fundación Enseña Chile",
+      "sintesis": "Acompañamiento pedagógico y formación con Enseña Chile.",
+      "contraparte": "Karla Silva - UATP"
+    },
+    {
+      "institucion": "Club Deportivo Estrella",
+      "sintesis": "Uso coordinado de estadio, baños y camarines del club.",
+      "contraparte": "Por confirmar - Gabinete"
+    },
+    {
+      "institucion": "Fundación Patio Vivo",
+      "sintesis": "Proyectos de fortalecimiento educativo con Patio Vivo.",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "institucion": "Fundación Impulso Docente",
+      "sintesis": "Academia Impulso Directivo para equipos directivos.",
+      "contraparte": "Diego Velásquez - UATP"
+    },
+    {
+      "institucion": "Universidad Austral de Chile",
+      "sintesis": "Formación continua, investigación y prácticas profesionales.",
+      "contraparte": "Diego Velásquez - UATP"
+    },
+    {
+      "institucion": "INACAP",
+      "sintesis": "Colaboración formativa y articulación territorial; verificar objeto registrado.",
+      "contraparte": "Diego Velásquez - UATP"
+    },
+    {
+      "institucion": "Universidad Católica de Temuco",
+      "sintesis": "Docencia, investigación, extensión y vinculación universitaria.",
+      "contraparte": "Diego Velásquez - UATP"
+    },
+    {
+      "institucion": "WPD, Plan C",
+      "sintesis": "Implementación del programa De la Escuela a la Tierra.",
+      "contraparte": "René Muñoz - Gabinete"
+    },
+    {
+      "institucion": "F99",
+      "sintesis": "Implementación de Futuro Local en educación técnico-profesional.",
+      "contraparte": "Karla Silva - UATP"
+    },
+    {
+      "institucion": "CFT Estatal Los Lagos",
+      "sintesis": "Articulación de trayectorias educativas técnico-profesionales.",
+      "contraparte": "Claudia Hofmann - UATP"
+    },
+    {
+      "institucion": "Universidad de Los Lagos",
+      "sintesis": "Formación continua, investigación e innovación educativa.",
+      "contraparte": "Diego Velásquez - UATP"
+    },
+    {
+      "institucion": "CFT Estatal Los Lagos",
+      "sintesis": "Capacitación Comprender para Acompañar en inclusión educativa.",
+      "contraparte": "Diego Velásquez - UATP"
+    },
+    {
+      "institucion": "Fundación Proyecto Micelio",
+      "sintesis": "Acciones educativas para enseñanza media y orientación vocacional.",
+      "contraparte": "Diego Velásquez - UATP"
+    },
+    {
+      "institucion": "Universidad de Los Lagos",
+      "sintesis": "Capacitación en inteligencia artificial para docentes y equipos educativos.",
+      "contraparte": "Karla Silva - UATP"
+    },
+    {
+      "institucion": "Fundación Museo Taller",
+      "sintesis": "Visitas y talleres educativos en Museo Taller Puerto Octay.",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "institucion": "'-1 Cine",
+      "sintesis": "Actividades de mediación cinematográfica y cine chileno.",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "institucion": "Fundación Andrónico Luksic A.",
+      "sintesis": "Continuidad del programa Redes Educativas para la Mejora de los Aprendizajes.",
+      "contraparte": "Karla Silva - UATP"
+    },
+    {
+      "institucion": "Armada de Chile",
+      "sintesis": "Visitas pedagógicas a reparticiones de la Armada.",
+      "contraparte": "Por definir"
+    },
+    {
+      "institucion": "Ministerio de Educación - Subsecretaría de Educación Parvularia",
+      "sintesis": "Estrategia Local de Transiciones Educativas en educación parvularia.",
+      "contraparte": "Por definir"
+    },
+    {
+      "institucion": "Servicio Nacional de Protección Especializada a la Niñez y Adolescencia Los Lagos",
+      "sintesis": "Cooperación para protección de derechos de niños, niñas y adolescentes.",
+      "contraparte": "Diego Velásquez - UATP"
+    },
+    {
+      "institucion": "Ministerio de Educación",
+      "sintesis": "Convenios SEP de Igualdad de Oportunidades y Excelencia Educativa 2025–2028.",
+      "contraparte": "Jocelyn Álvarez - DAF"
+    },
+    {
+      "institucion": "JUNAEB",
+      "sintesis": "Transferencia de recursos para el Programa Residencia Familiar Estudiantil.",
+      "contraparte": "Yocelyn Almonacid - Gabinete"
+    },
+    {
+      "institucion": "Dirección de Educación Pública",
+      "sintesis": "Convenio de desempeño y ejecución del FAEP 2026.",
+      "contraparte": "Por confirmar - Dirección Ejecutiva"
+    },
+    {
+      "institucion": "Fundación Arturo López Pérez",
+      "sintesis": "Acceso preferencial a protección y tratamientos oncológicos.",
+      "contraparte": "Carla Zapata - Bienestar"
+    },
+    {
+      "institucion": "Institución Financiera Cooperativa Copeuch",
+      "sintesis": "Productos de ahorro y crédito para funcionarios.",
+      "contraparte": "Carla Zapata - Bienestar"
+    },
+    {
+      "institucion": "Mutual de Seguros de Chile",
+      "sintesis": "Seguros de vida con descuentos de primas por planilla.",
+      "contraparte": "Carla Zapata - Bienestar"
+    },
+    {
+      "institucion": "Abastible S.A.",
+      "sintesis": "Descuentos preferenciales en cargas de gas licuado.",
+      "contraparte": "Carla Zapata - Bienestar"
+    },
+    {
+      "institucion": "Inversiones BMA SpA",
+      "sintesis": "Beneficios y descuentos en atención de salud visual.",
+      "contraparte": "Carla Zapata - Bienestar"
+    },
+    {
+      "institucion": "Banco de Chile",
+      "sintesis": "Productos y servicios bancarios en condiciones preferentes.",
+      "contraparte": "Carla Zapata - Bienestar"
+    },
+    {
+      "institucion": "Clínica Dental Cumbre Apoquindo S.A.",
+      "sintesis": "Atención y prestaciones dentales con arancel preferencial.",
+      "contraparte": "Carla Zapata - Bienestar"
+    },
+    {
+      "institucion": "Asesorías Financieras Invercol SpA",
+      "sintesis": "Promociones y descuentos mediante tarjeta virtual ISCard.",
+      "contraparte": "Carla Zapata - Bienestar"
+    },
+    {
+      "institucion": "Ilustre Municipalidad de Frutillar",
+      "sintesis": "Uso compartido de inmuebles e instalaciones para actividades comunitarias.",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "institucion": "Ilustre Municipalidad de Puerto Varas",
+      "sintesis": "Uso compartido de inmuebles e instalaciones para actividades comunitarias.",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "institucion": "Ilustre Municipalidad de Llanquihue",
+      "sintesis": "Uso compartido de inmuebles e instalaciones para actividades comunitarias.",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "institucion": "Corporación Municipal de Desarrollo Social Los Muermos",
+      "sintesis": "Cooperación y apoyo mutuo con la Corporación Municipal.",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "institucion": "Ilustre Municipalidad de Fresia",
+      "sintesis": "Uso compartido de inmuebles e instalaciones para actividades comunitarias.",
+      "contraparte": "Eber Martínez - Gabinete"
+    },
+    {
+      "institucion": "Centro de Formación Técnica Estatal de la Región de Los Lagos",
+      "sintesis": "Articulación académica del Liceo Industrial Chileno Alemán con el CFT Estatal.",
+      "contraparte": "Por definir"
+    },
+    {
+      "institucion": "Instituto Profesional Santo Tomás",
+      "sintesis": "Convalidación y continuidad de estudios de Contabilidad técnico-profesional.",
+      "contraparte": "Angélica Álvarez Peña - Unidad por confirmar; Yessica Oyarzo Baldovino - Unidad por confirmar"
+    },
+    {
+      "institucion": "Fundación Tres Hojas",
+      "sintesis": "Capacitación técnica para estudiantes de especialidad agropecuaria.",
+      "contraparte": "Carlos Cárdenas - Liceo Carlos Ibáñez del Campo"
+    },
+    {
+      "institucion": "Dronespray",
+      "sintesis": "Prácticas, talleres y tecnología de drones para formación agropecuaria.",
+      "contraparte": "Carlos Cárdenas - Liceo Carlos Ibáñez del Campo"
+    },
+    {
+      "institucion": "Ministerio de Educación",
+      "sintesis": "Financiamiento FIEP de cuatro proyectos de educación parvularia.",
+      "contraparte": "Marcela Wigolorchew - UATP"
+    }
+  ]
+}
